@@ -1,3 +1,0 @@
-Our friend reached out to us again asking for help. She is writing another program in Go but can't figure out what is causing a build error. We quickly notice she is missing not one, but two package imports on the chat/main.go file.
-
-go goimports -w chat/main.go
