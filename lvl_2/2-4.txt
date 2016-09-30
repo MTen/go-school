@@ -1,0 +1,5 @@
+var progLanguages {{what goes here?}}
+
+progLanguages = ["Go", "Python", "JavaScript"]
+
+answer: []string

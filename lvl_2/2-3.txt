@@ -1,0 +1,4 @@
+Which of the different options below represents the manual type declaration alternative to the following variable assignment: listenPort := "8080"?
+
+var listenPort string
+listenPort = "8080"
