@@ -1,0 +1,4 @@
+Exit codes are used by other programs so they know whether or not an error occurred.
+The exit code 1 is a POSIX standard indicating which of the following?
+
+The program has finished, but errors have occurred.

@@ -1,0 +1,4 @@
+A “zero value” is the default value assigned to variables declared without an explicit initial value.
+The zero value for data types string, int, and bool are respectively:
+
+"", 0, false
