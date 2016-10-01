@@ -1,0 +1,10 @@
+In Go, for loops have three different components we can use to control the loop.
+These three different components are:
+
+the init statement
+the conditional expression
+the post statement
+
+for <init>; <conditional>; <post> {}
+
+for i := 0; i < 10; i++ {}

@@ -1,0 +1,3 @@
+Adding more elements to an array than what was initially expected will result in the following:
+
+An out of bounds error is raised
