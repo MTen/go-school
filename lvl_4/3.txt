@@ -1,0 +1,3 @@
+A struct contains behavior in the form of ____
+
+methods

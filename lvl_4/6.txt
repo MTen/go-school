@@ -1,0 +1,4 @@
+We’ve added a new property isAdmin to our guestConnection struct. Given that it
+is of type bool, what is the default value for the isAdmin property ?
+
+A: The default value is false
